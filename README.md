@@ -1,5 +1,5 @@
 # 前端博客平台收集整理
-俗话说“工欲善其事，必先利其器”，收集前端的博客能让我们时刻关注前端动态。最近，我在Alloy周刊中负责前端博客的收集编辑，发现有很多优质的前端博客平台，于是收集一波让大家参考。下面的博客平台都是从Alloy周刊上收集的，本前端收集整理文章会不定期更新。
+俗话说“工欲善其事，必先利其器”，收集前端的博客能让我们时刻关注前端动态。最近，我在[Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/latest)中负责前端博客的收集编辑，发现有很多优质的前端博客平台，于是收集一波让大家参考。下面的博客平台都是从[Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/latest)上收集的，本前端收集整理文章会不定期更新。
 
 ## 技术网站
 * [alloyteam博客](http://www.alloyteam.com/page/0/)
