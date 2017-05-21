@@ -22,7 +22,7 @@
 * [前端周刊](https://zhuanlan.zhihu.com/feweekly)
 * [Node.js 与 v8 底层探秘](https://zhuanlan.zhihu.com/node-v8)
 * [Design & Code 设计与代码](https://zhuanlan.zhihu.com/design-code)
-* [前端之巅峰](https://zhuanlan.zhihu.com/qianduanzhidian)
+* [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
 
 
 ## 公众号
